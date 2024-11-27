@@ -19,7 +19,7 @@ Allows users to select different news categories. Clicking on a category trigger
  The app retrieves the latest news articles from a third-party API based on the user-selected category, ensuring up-to-date content.
 
 ### Category-Based News Display: 
-Users can browse news by choosing from categories like Technology, Business, Health, Sports, Entertainment, and Science, with content tailored to their interests.
+Users can browse news by choosing from categories like Technology, Business, Health, Sports, Entertainment, and Science.
 
 ### Responsive and Interactive Experience: 
 The app is optimized for various devices, offering a smooth and adaptable user interface with easy navigation between categories.
